@@ -18,3 +18,4 @@ quickkey:
 ## TODO
 
 - [ ] Show the windows and focus on the input
+- [ ] 后台运行 置顶显示

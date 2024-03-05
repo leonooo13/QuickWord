@@ -1,4 +1,4 @@
 # config.py
 
-appid = "20211121001005620"
-secret_key = "DpnMz2UNNGHnrDv_Cf21"
+appid = "your_appid_here"
+secret_key = "your_secret_key_here"
