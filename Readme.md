@@ -16,6 +16,7 @@ quickkey:
 ## Output
 - [x] WordZN
 ## TODO
-
+~~~~
 - [ ] Show the windows and focus on the input
 - [ ] 后台运行 置顶显示
+- [ ] 使用customtkinter库进行重构
